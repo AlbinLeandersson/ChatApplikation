@@ -1,0 +1,13 @@
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\bin\Debug\Client.exe.config
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\bin\Debug\Client.exe
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\bin\Debug\Client.pdb
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\bin\Debug\SimpleTCP.dll
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\Client.exe
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\Client.pdb
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\ChatApplication.Form1.resources
+C:\Users\Albin\Desktop\School\Prog 2\Windows Forms\ChatApplication\Client\obj\Debug\ChatApplication.LoginForm.resources
